@@ -1,0 +1,11 @@
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/bin/Debug/netcoreapp2.2/SimpleHttpServer.deps.json
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/bin/Debug/netcoreapp2.2/SimpleHttpServer.runtimeconfig.json
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/bin/Debug/netcoreapp2.2/SimpleHttpServer.runtimeconfig.dev.json
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/bin/Debug/netcoreapp2.2/SimpleHttpServer.dll
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/bin/Debug/netcoreapp2.2/SimpleHttpServer.pdb
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/netcoreapp2.2/SimpleHttpServer.csprojAssemblyReference.cache
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/netcoreapp2.2/SimpleHttpServer.csproj.CoreCompileInputs.cache
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/netcoreapp2.2/SimpleHttpServer.AssemblyInfoInputs.cache
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/netcoreapp2.2/SimpleHttpServer.AssemblyInfo.cs
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/netcoreapp2.2/SimpleHttpServer.dll
+/home/saddam/Documents/DotNetCore/Projects/SimpleHttpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/netcoreapp2.2/SimpleHttpServer.pdb
